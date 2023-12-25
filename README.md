@@ -17,9 +17,9 @@ Computer Configuration:
 - Discrete GPU - Nvidia laptop series 3070 - 8GB VRAM
 
 HPC Config - With Help from Ghent University HPC nodes:
-- Linux Based Systems
-- AMD EPYC
-- ?? RAM
+- Linux Based Systems - donphan Shell tmux
+- AMD EPYC - 1 node, 8 cores
+- 26.6 GiB RAM
 - ?? Storage - maybe Seagate HDDs
 - 10Gib Ethernet
 - A100 GPUs - not very sure
