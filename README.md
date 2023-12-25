@@ -15,3 +15,11 @@ Computer Configuration:
 - Mediatek Wi-Fi 6
 - integrated intel UHD Graphics
 - Discrete GPU - Nvidia laptop series 3070 - 8GB VRAM
+
+HPC Config - With Help from Ghent University HPC nodes:
+- Linux Based Systems
+- AMD EPYC
+- ?? RAM
+- ?? Storage - maybe Seagate HDDs
+- 10Gib Ethernet
+- A100 GPUs - not very sure
