@@ -160,3 +160,8 @@ int main(int argc, char* argv[]) {
 
     return 0;
 }
+//Using Open MP
+//test using:
+//g++ -o ReadMP Read_From_Text_File_in_Parallel.cpp -fopenmp
+//./ReadMP Parallel
+//./ReadMP Sequential
