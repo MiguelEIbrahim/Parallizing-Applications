@@ -29,3 +29,9 @@ test using:
 g++ -o OutputName FileName.cpp -fopenmp
 ./OutputName Sequential
 ./OutputName Parallel
+
+
+##MultiThreading:
+g++ -std=c++11 -o read_file_multithread read_file_multithread.cpp -lpthread
+./read_file_multithread parallel
+
