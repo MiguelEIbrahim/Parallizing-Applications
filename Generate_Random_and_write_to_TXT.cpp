@@ -6,7 +6,7 @@
 #include <chrono>
 #include <vector>
 #include <omp.h>
-
+//Open MP Variant -- Bad Speedup
 // Function to generate a random word of random length
 std::string generateRandomWord(int maxLength) {
     int length = rand() % maxLength + 1;
