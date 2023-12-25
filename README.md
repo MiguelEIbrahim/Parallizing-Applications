@@ -23,3 +23,9 @@ HPC Config - With Help from Ghent University HPC nodes:
 - ?? Storage - maybe Seagate HDDs
 - 10Gib Ethernet
 - A100 GPUs - not very sure
+# IMPORTANT RUN AND COMPILE
+Using Open MP
+test using:
+g++ -o OutputName FileName.cpp -fopenmp
+./OutputName Sequential
+./OutputName Parallel
